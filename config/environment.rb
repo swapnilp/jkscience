@@ -16,8 +16,8 @@ ActionMailer::Base.smtp_settings = {
   
   :authentication => :plain,
   
-  :user_name => "swapnil.patil04@gmail.com",
+  :user_name => "",
   
-  :password => "nseetap"
+  :password => ""
   
 }
